@@ -9,5 +9,5 @@ def recurring_fibonacci_number(number: int) -> Optional[int]:
 
     else:
 
-    return recurring_fibonacci_number(number - 1) + \
-        recurring_fibonacci_number(number - 2)
+        return recurring_fibonacci_number(number - 1) + \
+            recurring_fibonacci_number(number - 2)
