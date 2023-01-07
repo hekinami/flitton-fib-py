@@ -11,8 +11,7 @@ setup(
     description="Calculates a Fibonacci number",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hekinami/flitton- \
-      fib-py",
+    url="https://github.com/hekinami/flitton-fib-py",
 
     install_requires=[],
 
